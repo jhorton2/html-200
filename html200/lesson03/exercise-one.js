@@ -29,3 +29,5 @@ let hockeycountries = ['canada','usa','finland','russia','sweden'];
 const hockeycountrieslist = hockeycountries.join (', ');
 
 console.log(hockeycountrieslist);
+
+***PLEASEIGNORE***This is a test for github purposes
