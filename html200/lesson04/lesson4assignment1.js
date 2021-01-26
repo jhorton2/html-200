@@ -4,3 +4,5 @@ function square(number) {
 
   alert(result);
 }
+
+***NEW BRANCH TEST PLEASE IGNORE***
